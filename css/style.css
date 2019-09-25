@@ -1,0 +1,394 @@
+body{
+    background: #f4f4f4;
+    overflow-x: hidden;
+}
+.navbar{
+    position: relative;
+}
+div.container-fluid>img{
+    padding: 0;
+}
+div.collapse>ul{
+    font-size: 18px;
+    font-family: 'hind','simhei',verdana,Helvetica,sans-serif;
+}
+div.collapse>ul>li{
+    padding: 0 8px;
+}
+div.smallbanner1>span.pic>img{
+    position: absolute;
+    display: inline-block;
+    right: 135px;
+    top: 140px;
+}
+div.smallbanner2>span.pic>img{
+    position: absolute;
+    display: inline-block;
+    right: 135px;
+    top: 330px;
+}
+div.hari>ul.nav>li.nav-item>a{
+    background-color: #FFFFFF;
+    padding: 10px 40px;
+    font-size: 18px;
+    color: black;
+}
+div.hari>ul.nav>li.lainnya>a{
+    background-color: #FFFFFF;
+    padding: 10px 40px;
+    font-size: 18px;
+    font-family: 'hind','simhei',verdana,Helvetica,sans-serif;
+    color: #838383;
+}
+div.hari>ul.nav>li.nav-item>a.senin{
+    color: white;
+    height: 62px;
+    line-height: 40px;
+    background-color: rgb(0, 213, 100);
+}
+div.hari>ul.nav>li.nav-item>a.selasa{
+    height: 62px;
+    width: 120px;
+    line-height: 40px;
+}
+div.hari>ul.nav>li.nav-item>a.rabu{
+    height: 62px;
+    width: 120px;
+    line-height: 40px;
+}
+div.hari>ul.nav>li.nav-item>a.kamis{
+    height: 62px;
+    width: 120px;
+    line-height: 40px;
+}
+div.hari>ul.nav>li.nav-item>a.jumat{
+    height: 62px;
+    width: 120px;
+    line-height: 40px;
+}
+div.hari>ul.nav>li.nav-item>a.sabtu{
+    height: 62px;
+    width: 120px;
+    line-height: 40px;
+}
+div.hari>ul.nav>li.nav-item>a.minggu{
+    height: 62px;
+    width: 120px;
+    line-height: 40px;
+}
+div.line1{
+    padding: 20px 115px;
+}
+div.line1>div.pic{
+    position: relative;
+    display: inline-block;
+    padding: 0px 5px;
+}
+div.line2{
+    padding: 0px 115px;
+}
+div.line2>div.pic{
+    position: relative;
+    display: inline-block;
+    padding: 0px 5px;
+}
+div.garis1>hr{
+    position: relative;
+    top: 30px;
+}
+div.text1>p{
+    position: relative;
+    text-align: center;
+    top: 40px;
+    font-size: 20px;
+}
+div.line3{
+    padding: 20px 115px;
+}
+div.line3>div.pic{
+    position: relative;
+    display: inline-block;
+    padding: 30px 5px;
+}
+div.dot{
+    position: relative;
+    top: -30px;
+}
+div.dot>span.blackdot{
+    width: 10px;
+    height: 10px;
+    margin: 5px 2px;
+    border-radius: 50%;
+    background-color: rgb(82, 82, 82);
+    display: inline-block
+}
+div.dot>span.whitedot{
+    width: 10px;
+    height: 10px;
+    margin: 5px 2px;
+    border-radius: 50%;
+    background-color: #C4C4C4;
+    display: inline-block
+}
+div.garis2>hr{
+    position: relative;
+    top: -10px;
+}
+div.text2>p{
+    position: relative;
+    text-align: center;
+    top: 10px;
+    font-size: 20px;
+}
+div.line4{
+    padding: 20px 115px;
+}
+div.line4>div.pic{
+    position: relative;
+    display: inline-block;
+    padding: 0px 5px;
+    top: -90px;
+}
+div.line4>div.pic>div.pinkbox{
+    width: 210px;
+    height: 210px;
+    background: #fd337f;
+    position: relative;
+    top: 85px;
+}
+.romantis{
+    color: #FFFFFF;
+    padding: 15px 15px;
+    font-size: 20px;
+}
+.textromantis{
+    color: #FFFFFF;
+    padding: 75px 15px;
+}
+div.line5{
+    padding: 20px 115px;
+}
+div.line5>div.pic{
+    position: relative;
+    display: inline-block;
+    padding: 0px 5px;
+    top: -200px;
+}
+div.line5>div.pic>div.bluepastelbox{
+    width: 210px;
+    height: 210px;
+    background: #00b19a;
+    position: relative;
+    top: 85px;
+}
+.drama{
+    color: #FFFFFF;
+    padding: 15px 15px;
+    font-size: 20px;
+}
+.textdrama{
+    color: #FFFFFF;
+    padding: 50px 15px;
+}
+div.line1>div.pic>p{
+    position: absolute;
+    top: 12px;
+    left: 20px;
+    font-size: 17px;
+    font-family: 'hind','simhei',verdana,Helvetica,sans-serif;
+}
+.wentheflor{
+    color: #FFFFFF;
+}
+div.line1>div.pic>p.like{
+    position: absolute;
+    top: 35px;
+    left: 20px;
+    font-size: 15px;
+    color: rgb(0, 213, 100);
+    font-family: 'hind','simhei',verdana,Helvetica,sans-serif;
+}
+div.line2>div.pic>p{
+    position: absolute;
+    top: 12px;
+    left: 20px;
+    font-size: 17px;
+    font-family: 'hind','simhei',verdana,Helvetica,sans-serif;
+}
+div.line2>div.pic>p.like{
+    position: absolute;
+    top: 35px;
+    left: 20px;
+    font-size: 15px;
+    color: rgb(0, 213, 100);
+    font-family: 'hind','simhei',verdana,Helvetica,sans-serif;
+}
+div.line2>div.pic>p.likevirgo{
+    position: absolute;
+    top: 60px;
+    left: 20px;
+    font-size: 15px;
+    color: rgb(0, 213, 100);
+    font-family: 'hind','simhei',verdana,Helvetica,sans-serif;
+}
+div.line3>div.pic>p{
+    position: absolute;
+    top: 40px;
+    left: 20px;
+    font-size: 17px;
+    font-family: 'hind','simhei',verdana,Helvetica,sans-serif;
+}
+div.line3>div.pic>p.like{
+    position: absolute;
+    top: 63px;
+    left: 20px;
+    font-size: 15px;
+    color: rgb(0, 213, 100);
+    font-family: 'hind','simhei',verdana,Helvetica,sans-serif;
+}
+div.line4>div.pic>p{
+    position: absolute;
+    top: 12px;
+    left: 20px;
+    font-size: 17px;
+    font-family: 'hind','simhei',verdana,Helvetica,sans-serif;
+}
+.chocolatte{
+    color: #FFFFFF;
+}
+div.line4>div.pic>p.like{
+    position: absolute;
+    top: 35px;
+    left: 20px;
+    font-size: 15px;
+    color: rgb(0, 213, 100);
+    font-family: 'hind','simhei',verdana,Helvetica,sans-serif;
+}
+div.line5>div.pic>p{
+    position: absolute;
+    top: 12px;
+    left: 20px;
+    font-size: 17px;
+    font-family: 'hind','simhei',verdana,Helvetica,sans-serif;
+}
+div.line5>div.pic>p.like{
+    position: absolute;
+    top: 35px;
+    left: 20px;
+    font-size: 15px;
+    color: rgb(0, 213, 100);
+    font-family: 'hind','simhei',verdana,Helvetica,sans-serif;
+}
+div.line5>div.pic>p.likemuh{
+    position: absolute;
+    top: 60px;
+    left: 20px;
+    font-size: 15px;
+    color: rgb(0, 213, 100);
+    font-family: 'hind','simhei',verdana,Helvetica,sans-serif;
+}
+.ranking_1st{
+    display: flex;
+    list-style: none;
+}
+div.ranking_1st>div.genreranking{
+    position: relative;
+    padding: 0px 115px;
+    top: -160px;
+}
+div.ranking_1st>div.genreranking>p{
+    font-size: 20px;
+    font-family: 'hind','simhei',verdana,Helvetica,sans-serif;
+    border: 1px solid transparent;
+}
+div.ranking_1st>div.genreranking>ul.leftarea{
+    position: relative;
+}
+div.ranking_1st>div.genreranking>ul.leftarea>li{
+    list-style-type: none;
+}
+.ketgenre{
+    list-style-type: none;
+    display: inline-block;
+    position: relative;
+    top: 25px;
+    left: -22px;
+}
+.genregenre{
+    color: #fd337f;
+    font-size: 13px;
+    font-family: 'hind','simhei',verdana,Helvetica,sans-serif;
+}
+.judulgenre{
+    font-size: 18px;
+    font-family: 'hind','simhei',verdana,Helvetica,sans-serif;
+}
+.authorgenre{
+    font-size: 13px;
+    font-family: 'hind','simhei',verdana,Helvetica,sans-serif;
+}
+div.ranking_1st>div.usiaranking{
+    position: relative;
+    top: -160px;
+}
+div.ranking_1st>div.usiaranking>p{
+    font-size: 20px;
+    font-family: 'hind','simhei',verdana,Helvetica,sans-serif;
+    border: 1px solid transparent;
+}
+div.ranking_1st>div.usiaranking>ul.rightarea{
+    position: relative;
+}
+div.ranking_1st>div.usiaranking>ul.rightarea>li{
+    list-style-type: none;
+}
+.ket{
+    list-style-type: none;
+    display: inline-block;
+    position: relative;
+    top: 25px;
+    left: -22px;
+}
+.genreusia{
+    color: #fd337f;
+    font-size: 13px;
+    font-family: 'hind','simhei',verdana,Helvetica,sans-serif;
+}
+.judulusia{
+    font-size: 18px;
+    font-family: 'hind','simhei',verdana,Helvetica,sans-serif;
+}
+.authorusia{
+    font-size: 13px;
+    font-family: 'hind','simhei',verdana,Helvetica,sans-serif;
+}
+.whitebox{
+    position: absolute;
+    width: 100%;
+    height: 820px;
+    top: 2085px;
+    background-color: #FFFFFF;
+}
+.sosmed{
+    top: -70px;
+    position: relative;
+}
+.textfooter{
+    position: relative;
+    text-align: center;
+    top: -45px;
+}
+.tf{
+    display: inline-block;
+    padding: 0px 10px;
+}
+.textfooter2{
+    position: relative;
+    text-align: center;
+    font-size: 14px;
+    color: #c5c5c5;
+    top: -25px;
+}
+@media (max-width : 720px){
+    
+}
